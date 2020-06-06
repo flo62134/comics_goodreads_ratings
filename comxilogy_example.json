@@ -1,0 +1,3474 @@
+{
+  "cursor": null,
+  "facets": {},
+  "id": 0,
+  "objectCount": 34,
+  "objects": [
+    {
+      "asin": "B00AAJQVBS",
+      "creators": [
+        {
+          "id": 204,
+          "name": "Stan Lee",
+          "role": "credit.writer"
+        },
+        {
+          "id": 895,
+          "name": "Steve Ditko",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 782,
+          "name": "Jack Kirby",
+          "role": "credit.penciler"
+        }
+      ],
+      "customId": "25553",
+      "description": "Collects Amazing Fantasy #15 and Amazing Spider-Man (1963) #1-10.\r\n\r\nWhen a young Peter Parker is given the fantastic powers of an arachnid, he must also deal with the fantastic pressures of an everyday teenager. Check out these stories of spectacular web-slinging adventure from Spidey's very beginning, including the tragic origin that started it all, the first appearances of the Daily Bugle, J. Jonah Jameson, Doctor Octopus, the Sandman, the Vulture, Electro, and guest-star nods by the Fantastic Four and Human Torch.",
+      "id": 20773,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/20773/20773._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 268,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": "2009-02-04",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2012-02-16",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 4277,
+        "position": 600,
+        "subscribable": false,
+        "title": "Amazing Spider-Man (1963-1998)"
+      },
+      "sku": "NOV082434",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 93,
+        "userRatingCount": 503
+      },
+      "title": "Amazing Spider-Man Masterworks",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07G8MHSR4",
+      "creators": [
+        {
+          "id": 352,
+          "name": "Stuart Immonen",
+          "role": "credit.art"
+        },
+        {
+          "id": 2034,
+          "name": "Mike Hawthorne",
+          "role": "credit.art"
+        },
+        {
+          "id": 453,
+          "name": "Giuseppe Camuncoli",
+          "role": "credit.art"
+        },
+        {
+          "id": 385,
+          "name": "Jim Cheung",
+          "role": "credit.art"
+        },
+        {
+          "id": 6419,
+          "name": "Cory Smith",
+          "role": "credit.art"
+        },
+        {
+          "id": 3450,
+          "name": "Marcus To",
+          "role": "credit.art"
+        },
+        {
+          "id": 4,
+          "name": "Alex Ross",
+          "role": "credit.cover"
+        },
+        {
+          "id": 315,
+          "name": "Dan Slott",
+          "role": "credit.writer"
+        },
+        {
+          "id": 57,
+          "name": "Christos Gage",
+          "role": "credit.writer"
+        },
+        {
+          "id": 157421,
+          "name": "David Hein",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "49194",
+      "description": "Collects Amazing Spider-Man (2015) #794-801.\r\n\r\nTwo of Spider-Man's greatest villains combine in the epic conclusion to Dan Slott's amazing, record-breaking run! Norman Osborn has been scouring the globe for a cure to the genetic tampering that prevents him from becoming the Green Goblin — and at long last, he's about to find it! His new weapon? The Carnage symbiote! When the Red Goblin strikes, who lives?! Who dies?! And what scars will Spider-Man bear from here on out?! Experience one of the most exciting stories in Spider-Man lore, culminating in a cataclysmic finale that has Spider-Man facing his most terrifying foe — ever! Plus: A long-awaited rematch with Scorpio — and Dan Slott signs off with an emotional, heartfelt final Spidey tale no fan will want to miss!",
+      "id": 694351,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/694351/694351._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 247,
+      "price": {
+        "cuDiscount": 12.74,
+        "cuDiscountLocal": 14.44,
+        "cuDiscountLocalFormatted": "14,44 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 14.99,
+        "discountFormatted": "16,99 €",
+        "discountLocal": 16.99,
+        "full": 14.99,
+        "fullFormatted": "16,99 €",
+        "fullLocal": 16.99,
+        "isOnSale": false
+      },
+      "publishDate": "2018-09-19",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2018-09-19",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 55201,
+        "position": 3200,
+        "subscribable": false,
+        "title": "Amazing Spider-Man (2015-2018)"
+      },
+      "sku": "Z00041615",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 89,
+        "userRatingCount": 385
+      },
+      "title": "Amazing Spider-Man: Red Goblin",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07G8MDLYD",
+      "creators": [
+        {
+          "id": 1125,
+          "name": "Sara Pichelli",
+          "role": "credit.art"
+        },
+        {
+          "id": 349,
+          "name": "Ed McGuinness",
+          "role": "credit.art"
+        },
+        {
+          "id": 79,
+          "name": "Paco Medina",
+          "role": "credit.art"
+        },
+        {
+          "id": 349,
+          "name": "Ed McGuinness",
+          "role": "credit.cover"
+        },
+        {
+          "id": 120,
+          "name": "Jason Aaron",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "49474",
+      "description": "Collects Avengers (2018) #1-6 and Material From Free Comic Book Day 2018 (Avengers/Captain America).\r\n\r\nA new era for Earth’s Mightiest Heroes! Steve Rogers. Tony Stark. Thor Odinson. The big three are reunited at last — and just in time to save the world from the 2,000-foot-tall space gods known as the Celestials! Behold the coming of the Final Host! But who will answer the call as a new team of Avengers assembles? As Black Panther and Doctor Strange battle for their lives deep within the earth, Captain Marvel faces death and destruction raining down from the skies. And what about the Savage She-Hulk and the all-new Ghost Rider? Plus: No gathering of Avengers would be complete without a certain Prince of Lies! But what world-shaking connection exists between the Dark Celestials and Odin’s ancient band of Prehistoric Avengers?",
+      "id": 703729,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/703729/703729._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 154,
+      "price": {
+        "cuDiscount": 9.34,
+        "cuDiscountLocal": 10.19,
+        "cuDiscountLocalFormatted": "10,19 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.99,
+        "discountFormatted": "11,99 €",
+        "discountLocal": 11.99,
+        "full": 10.99,
+        "fullFormatted": "11,99 €",
+        "fullLocal": 11.99,
+        "isOnSale": false
+      },
+      "publishDate": "2018-10-03",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2018-10-03",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 115296,
+        "position": 0,
+        "subscribable": true,
+        "title": "Avengers (2018-)"
+      },
+      "sku": "Z00043223",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 80,
+        "userRatingCount": 548
+      },
+      "title": "Avengers by Jason Aaron",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "The Final Host"
+    },
+    {
+      "asin": "B07SZJJ4YR",
+      "creators": [
+        {
+          "id": 3852,
+          "name": "John Romita",
+          "role": "credit.art"
+        },
+        {
+          "id": 892,
+          "name": "Olivier Coipel",
+          "role": "credit.art"
+        },
+        {
+          "id": 1066,
+          "name": "Adam Kubert",
+          "role": "credit.art"
+        },
+        {
+          "id": 140,
+          "name": "Frank Cho",
+          "role": "credit.art"
+        },
+        {
+          "id": 349,
+          "name": "Ed McGuinness",
+          "role": "credit.art"
+        },
+        {
+          "id": 385,
+          "name": "Jim Cheung",
+          "role": "credit.cover"
+        },
+        {
+          "id": 136,
+          "name": "Brian Bendis",
+          "role": "credit.writer"
+        },
+        {
+          "id": 120,
+          "name": "Jason Aaron",
+          "role": "credit.writer"
+        },
+        {
+          "id": 16,
+          "name": "Ed Brubaker",
+          "role": "credit.writer"
+        },
+        {
+          "id": 151,
+          "name": "Matt Fraction",
+          "role": "credit.writer"
+        },
+        {
+          "id": 1250,
+          "name": "Jonathan Hickman",
+          "role": "credit.writer"
+        },
+        {
+          "id": 138,
+          "name": "Jeph Loeb",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "52206",
+      "description": "Collects Avengers Vs. X-Men #0-12 And Material From Point One #1.\r\n\r\nEarth’s Mightiest Heroes and the Children of the Atom go to war in the ultimate super-hero showdown! The world-destroying Phoenix Force is back — and while the Avengers are intent on stopping it, Cyclops and his X-Men have other ideas. To Captain America, the Phoenix threatens doom. To Cyclops, it could mean salvation. Marvel’s two greatest leaders wage war, with the Phoenix’s chosen host — Hope Summers — caught in the middle. How far are both sides willing to go? The answer lies in a battle so big no one world could contain it…and a shocking ending that neither team could have seen coming! Marvel’s top writers and artists present a space-faring, world-changing epic — the culmination of a decade’s worth of incredible event storytelling.",
+      "id": 786072,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/786072/786072._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 347,
+      "price": {
+        "cuDiscount": 21.24,
+        "cuDiscountLocal": 23.79,
+        "cuDiscountLocalFormatted": "23,79 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 24.99,
+        "discountFormatted": "27,99 €",
+        "discountLocal": 27.99,
+        "full": 24.99,
+        "fullFormatted": "27,99 €",
+        "fullLocal": 27.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-07-11",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 7565,
+        "position": 0,
+        "subscribable": false,
+        "title": "Avengers vs. X-Men"
+      },
+      "sku": "Z00057344",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 89,
+        "userRatingCount": 364
+      },
+      "title": "Avengers vs. X-Men Collection",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00AAJQWNU",
+      "creators": [
+        {
+          "id": 92,
+          "name": "Roy Thomas",
+          "role": "credit.writer"
+        },
+        {
+          "id": 104,
+          "name": "John Buscema",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 394,
+          "name": "Sal Buscema",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 2001,
+          "name": "Neal Adams",
+          "role": "credit.penciler"
+        }
+      ],
+      "customId": "25456",
+      "description": "Collecting AVENGERS (1963) #89-97. \r\n\r\nA conflict of star-spanning proportions - with Earth caught in the crossfire! For those eternal intergalactic enemies, the merciless Kree and the shape-changing Skrulls, have gone to war, and our planet is situated on the front lines! Can Earth's Mightiest Heroes, the Avengers, bring about an end to the fighting before humanity becomes a casualty of war? And what good are even a dozen super-powered champions against the vast military machines of two of the great empires of the cosmos? The key to victory lies with the expatriate Kree Captain Mar-Vell and his human host, honorary Avenger Rick Jones! Featuring the trend-setting artwork of Neal Adams, the Kree/Skrull War is universally acknowledged as one of the finest and most important sagas in the Marvel canon.",
+      "id": 20544,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/20544/20544._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 205,
+      "price": {
+        "cuDiscount": 14.44,
+        "cuDiscountLocal": 16.14,
+        "cuDiscountLocalFormatted": "16,14 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 16.99,
+        "discountFormatted": "18,99 €",
+        "discountLocal": 18.99,
+        "full": 16.99,
+        "fullFormatted": "18,99 €",
+        "fullLocal": 18.99,
+        "isOnSale": false
+      },
+      "publishDate": "2012-05-02",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2012-02-02",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 4231,
+        "position": 800,
+        "subscribable": false,
+        "title": "Avengers (1963-1996)"
+      },
+      "sku": "DEC110698",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 77,
+        "userRatingCount": 187
+      },
+      "title": "Avengers: Kree/Skrull War",
+      "unlimitedEligible": true,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07T2NJ1WK",
+      "creators": [
+        {
+          "id": 1599,
+          "name": "Brian Stelfreeze",
+          "role": "credit.art"
+        },
+        {
+          "id": 2609,
+          "name": "Chris Sprouse",
+          "role": "credit.art"
+        },
+        {
+          "id": 1599,
+          "name": "Brian Stelfreeze",
+          "role": "credit.cover"
+        },
+        {
+          "id": 78505,
+          "name": "Ta-Nehisi Coates",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "52209",
+      "description": "Collects Black Panther (2016) #1-12.\r\n\r\nA new era for the Black Panther begins as the kingdom of Wakanda enters what might be its final days! National Book Award winner and New York Times Best-Selling author Ta-Nehisi Coates (Between the World and Me) confronts T’Challa with dramatic upheaval in his homeland that will make leading the African nation tougher than ever before. When a superhuman terrorist group that calls itself The People sparks a violent uprising, the country famed for its incredible technology and proud warrior traditions will be thrown into turmoil! As Zenzi and Tetu, leaders of The People, poison the populace against its king, the spirit of T’Challa’s presumed-dead sister, Shuri, makes a transformative journey through Wakanda’s past, and a group of heroes, including Storm and Luke Cage, come together as The Crew to help Black Panther out. If Wakanda is to survive, it must adapt — but can its king, one of a long line of Black Panthers, survive the necessary change? Heavy is the head that wears the cowl!",
+      "id": 786087,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/786087/786087._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 330,
+      "price": {
+        "cuDiscount": 14.44,
+        "cuDiscountLocal": 16.14,
+        "cuDiscountLocalFormatted": "16,14 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 16.99,
+        "discountFormatted": "18,99 €",
+        "discountLocal": 18.99,
+        "full": 16.99,
+        "fullFormatted": "18,99 €",
+        "fullLocal": 18.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-07-18",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 133523,
+        "position": 100,
+        "subscribable": false,
+        "title": "Black Panther by Ta-Nehisi Coates Collection"
+      },
+      "sku": "Z00057347",
+      "status": {
+        "ageRating": 9,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 82,
+        "userRatingCount": 113
+      },
+      "title": "Black Panther by Ta-Nehisi Coates Vol. 1 Collection",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07SZK3LP7",
+      "creators": [
+        {
+          "id": 2226,
+          "name": "Wilfredo Torres",
+          "role": "credit.art"
+        },
+        {
+          "id": 6762,
+          "name": "Jacen Burrows",
+          "role": "credit.art"
+        },
+        {
+          "id": 43329,
+          "name": "Adam Gorham",
+          "role": "credit.art"
+        },
+        {
+          "id": 2609,
+          "name": "Chris Sprouse",
+          "role": "credit.art"
+        },
+        {
+          "id": 53,
+          "name": "Leonard Kirk",
+          "role": "credit.art"
+        },
+        {
+          "id": 1599,
+          "name": "Brian Stelfreeze",
+          "role": "credit.cover"
+        },
+        {
+          "id": 78505,
+          "name": "Ta-Nehisi Coates",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "52210",
+      "description": "Collects Black Panther (2016) #13-18 and #166-172.\r\n\r\nEons ago — before Black Panthers, before Wakanda, before time itself — there were only the Orishas! The pantheon of gods and goddesses from which the world as we know it was manifested: Asali. Ogutemeli. Bast. But now, when Wakanda burns, they are silent. Where have all the gods of Wakanda gone? And what came before even the Orishas? Find out as the terrifying Originators return! The Black Panther’s greatest foe is back as well, ready for war — and Klaw plans to stand supreme! All this is only the beginning as a cadre of villains strikes, monsters pour through strange gateways, and Wakanda is brought to its knees! T’Challa must defend his country from within — and turn to unlikely allies from without. Who will join the king’s ill-fated crusade? The answers will surprise you!",
+      "id": 786092,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/786092/786092._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 296,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-07-18",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 133523,
+        "position": 200,
+        "subscribable": false,
+        "title": "Black Panther by Ta-Nehisi Coates Collection"
+      },
+      "sku": "Z00057348",
+      "status": {
+        "ageRating": 9,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 83,
+        "userRatingCount": 83
+      },
+      "title": "Black Panther by Ta-Nehisi Coates Vol. 2 Collection",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B01M2VOKRT",
+      "creators": [
+        {
+          "id": 74,
+          "name": "Chris Samnee",
+          "role": "credit.art"
+        },
+        {
+          "id": 74,
+          "name": "Chris Samnee",
+          "role": "credit.cover"
+        },
+        {
+          "id": 574,
+          "name": "Mark Waid",
+          "role": "credit.writer"
+        },
+        {
+          "id": 74,
+          "name": "Chris Samnee",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "42866",
+      "description": "Collects Black Widow (2016) #1-6.\r\n\r\nThey wowed you with DAREDEVIL, now the Eisner Award-winning team of Mark Waid and Chris Samnee take Black Widow to new heights — by forcing her to go on the lam! Natasha has a lifetime of secrets, and when some of the darkest ones are made public, nobody is safe. As S.H.I.E.L.D. turns on its once-greatest asset, she seeks out her own answers in a knock-down, drag-out tale of action and espionage! But the Widow's hunt for the Weeping Lion sends her back to the one place she never wanted to go! With a little help from old friends — and old enemies lying in wait — she'll face the new incarnation of the Red Room: the Dark Room! But as S.H.I.E.L.D. closes in, Natasha finds herself on a collision course with the Invincible Iron Man!",
+      "id": 441185,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/441185/441185._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 134,
+      "price": {
+        "cuDiscount": 9.34,
+        "cuDiscountLocal": 10.19,
+        "cuDiscountLocalFormatted": "10,19 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.99,
+        "discountFormatted": "11,99 €",
+        "discountLocal": 11.99,
+        "full": 10.99,
+        "fullFormatted": "11,99 €",
+        "fullLocal": 11.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2016-10-26",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 66761,
+        "position": 100,
+        "subscribable": false,
+        "title": "Black Widow (2016-2017)"
+      },
+      "sku": "DIG096127",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 89,
+        "userRatingCount": 370
+      },
+      "title": "Black Widow",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "S.H.I.E.L.D.'s Most Wanted"
+    },
+    {
+      "asin": "B07M8YM31Q",
+      "creators": [
+        {
+          "id": 295,
+          "name": "Leinil Yu",
+          "role": "credit.art"
+        },
+        {
+          "id": 4,
+          "name": "Alex Ross",
+          "role": "credit.cover"
+        },
+        {
+          "id": 78505,
+          "name": "Ta-Nehisi Coates",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "50652",
+      "description": "Collects Captain America (2018) #1-6 and material from Free Comic Book Day 2018 (Avengers/Captain America).\r\n\r\nIt's winter in America! For more than 70 years, Captain America has stood in stalwart defense of our country and its people. But in the aftermath of Hydra's takeover of the nation, Cap is a figure of controversy, carrying a tarnished shield — and a new enemy is rising! Distrusted by a nation that seems to have lost faith in him, and facing threats including the Taskmaster and an army of Nuke super-soldiers, Steve Rogers is a man out of time — and out of options! Where can Captain America turn for help stopping the influence-broker cabal known as the Power Elite? And which surprising villain is pulling the group's strings? Join acclaimed BLACK PANTHER scribe Ta-Nehisi Coates for the next chapter of Captain America's life!",
+      "id": 736912,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/736912/736912._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 153,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": "2019-02-20",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-02-20",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 117964,
+        "position": 100,
+        "subscribable": true,
+        "title": "Captain America (2018-)"
+      },
+      "sku": "Z00048676",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 85,
+        "userRatingCount": 287
+      },
+      "title": "Captain America",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "Winter In America"
+    },
+    {
+      "asin": "B01DCJIW8C",
+      "creators": [
+        {
+          "id": 111,
+          "name": "Daniel Acuna",
+          "role": "credit.art"
+        },
+        {
+          "id": 1782,
+          "name": "Paul Renaud",
+          "role": "credit.art"
+        },
+        {
+          "id": 111,
+          "name": "Daniel Acuna",
+          "role": "credit.cover"
+        },
+        {
+          "id": 1833,
+          "name": "Nick Spencer",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "41340",
+      "description": "Collects Captain America: Sam Wilson #1-6.\r\n\r\nWhen Steve Rogers was restored to his natural age, he chose one of his closest and most trusted allies to take up his shield: Sam Wilson, formerly the Avenger known as the Falcon! But Sam isn't Steve — and after recent events, he's on the outs with both his old friend and S.H.I.E.L.D. What could have sent the high flying new Cap's approval rating plummeting so dramatically? Things get slithery when the vile Sons of the Serpent make the scene, and you'll howl at the glorious return of fan-favorite Cap-Wolf — well, Fal-Cap-Wolf! But what other horrors await in the dungeon of Doctor Malus? And who will be the All-New, All-Different Falcon? The headline-making Sam Wilson is a Captain America for today!",
+      "id": 360081,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/360081/360081._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 130,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2016-04-20",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 54214,
+        "position": 100,
+        "subscribable": false,
+        "title": "Captain America: Sam Wilson (2015-2017)"
+      },
+      "sku": "DIG080727",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 82,
+        "userRatingCount": 166
+      },
+      "title": "Captain America: Sam Wilson",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07SZHBPW3",
+      "creators": [
+        {
+          "id": 388,
+          "name": "Steve Epting",
+          "role": "credit.art"
+        },
+        {
+          "id": 61,
+          "name": "Mike Perkins",
+          "role": "credit.art"
+        },
+        {
+          "id": 66,
+          "name": "Michael Lark",
+          "role": "credit.art"
+        },
+        {
+          "id": 388,
+          "name": "Steve Epting",
+          "role": "credit.cover"
+        },
+        {
+          "id": 16,
+          "name": "Ed Brubaker",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "52212",
+      "description": "Collects Captain America #1-9 & #11-14.\r\n\r\nA midnight call to duty brings Captain America aboard the S.H.I.E.L.D Heli-carrier to identify the corpse of his most feared adversary: the Red Skull! The shocking murder of Cap’s oldest enemy may not be the end of the Skull’s plans, however, because whoever shot the Skull has stolen his final project: an unfinished Cosmic Cube with the potential power to alter reality itself. Adding to the imminent danger, a cadre of the Skull’s followers has already set in motion a plan to ignite bombs in the hearts of Paris, London and Manhattan – causing untold death and destruction. Racing against these bombs’ rapidly ticking clocks, the Star-Spangled Avenger must not only solve the mystery of his nemesis’ murder, but find the Cube before it can be used in the Red Skull’s malevolent plot against the United States! Then, the questions plaguing Captain America's dreams and memories have been answered in the most brutal way possible. And in the wake of this brutality, General Lukin makes his first all-out assault – tearing open old wounds and threatening to make new scars that will never heal!",
+      "id": 786102,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/786102/786102._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 302,
+      "price": {
+        "cuDiscount": 14.44,
+        "cuDiscountLocal": 16.14,
+        "cuDiscountLocalFormatted": "16,14 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 16.99,
+        "discountFormatted": "18,99 €",
+        "discountLocal": 18.99,
+        "full": 16.99,
+        "fullFormatted": "18,99 €",
+        "fullLocal": 18.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-07-18",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 844,
+        "position": 0,
+        "subscribable": false,
+        "title": "Captain America (2004-2011)"
+      },
+      "sku": "Z00057350",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 92,
+        "userRatingCount": 220
+      },
+      "title": "Captain America: Winter Soldier Ultimate Collection",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00NAHL15I",
+      "creators": [
+        {
+          "id": 4627,
+          "name": "Kelly DeConnick",
+          "role": "credit.writer"
+        },
+        {
+          "id": 1621,
+          "name": "David Lopez",
+          "role": "credit.art"
+        },
+        {
+          "id": 1621,
+          "name": "David Lopez",
+          "role": "credit.cover"
+        }
+      ],
+      "customId": "35199",
+      "description": "Collects Captain Marvel (2014) #1-6.\r\n\r\nOne of Marvel's most beloved Avengers launches into her own ongoing series! Carol Danvers has played many roles in her life; hero, pilot, Avenger, and now, deep-space adventurer!  Join Captain Marvel as she attempts to return an alien girl to her home world, and defend the rights of aliens revolting against the Galactic Alliance. Guest-starring Guardians of the Galaxy!",
+      "id": 149220,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/149220/149220._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 134,
+      "price": {
+        "cuDiscount": 9.34,
+        "cuDiscountLocal": 10.19,
+        "cuDiscountLocalFormatted": "10,19 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.99,
+        "discountFormatted": "11,99 €",
+        "discountLocal": 11.99,
+        "full": 10.99,
+        "fullFormatted": "11,99 €",
+        "fullLocal": 11.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2014-10-08",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 15021,
+        "position": 100,
+        "subscribable": false,
+        "title": "Captain Marvel (2014-2015)"
+      },
+      "sku": "DIG028878",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 84,
+        "userRatingCount": 583
+      },
+      "title": "Captain Marvel",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "Higher, Further, Faster, More"
+    },
+    {
+      "asin": "B00EAROYT2",
+      "creators": [
+        {
+          "id": 41,
+          "name": "Mark Millar",
+          "role": "credit.writer"
+        },
+        {
+          "id": 40,
+          "name": "Steve McNiven",
+          "role": "credit.penciler"
+        }
+      ],
+      "customId": "25126",
+      "description": "Collects Civil War (2006) #1-7. Whose side are you on? A conflict is brewing that threatens to pit friend against friend, brother against brother and all it will take is a single misstep to cost thousands their lives and ignite the fuse! As the war claims its first victims, no one is safe as teams, friendships and families begin to fall apart and the Marvel Universe super heroes go to war against each other.",
+      "id": 19456,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/19456/19456._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 196,
+      "price": {
+        "cuDiscount": 4.24,
+        "cuDiscountLocal": 4.67,
+        "cuDiscountLocalFormatted": "4,67 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 4.99,
+        "discountFormatted": "5,49 €",
+        "discountLocal": 5.49,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": true
+      },
+      "publishDate": "2007-04-11",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2011-12-22",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 847,
+        "position": 700,
+        "subscribable": false,
+        "title": "Civil War"
+      },
+      "sku": "JAN072436",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 89,
+        "userRatingCount": 2290
+      },
+      "title": "Civil War",
+      "unlimitedEligible": true,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00AAJQYDS",
+      "creators": [
+        {
+          "id": 346,
+          "name": "J. Michael Straczynski",
+          "role": "credit.writer"
+        },
+        {
+          "id": 324,
+          "name": "Ron Garney",
+          "role": "credit.penciler"
+        }
+      ],
+      "customId": "25771",
+      "description": "Collects Amazing Spider-Man #532-538. Peter travels with Tony Stark to Washington, D.C., and the White House - where the enactment of the Super Hero Registration Act appears imminent. As the Marvel Universe braces for the implications of legislation that will forever change the societal status of super heroes, Peter is forced to make an important personal decision - maybe the most important decision of his life. As Civil War tears apart the super hero community, will Spidey stay true to that decision?",
+      "id": 22180,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/22180/22180._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 167,
+      "price": {
+        "cuDiscount": 7.64,
+        "cuDiscountLocal": 8.49,
+        "cuDiscountLocalFormatted": "8,49 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": "2007-04-18",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2012-03-15",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 811,
+        "position": 4500,
+        "subscribable": false,
+        "title": "Amazing Spider-Man (1999-2013)"
+      },
+      "sku": "JAN072438",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 90,
+        "userRatingCount": 248
+      },
+      "title": "Civil War",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": "Amazing Spider-Man"
+    },
+    {
+      "asin": "B01DOJCAGA",
+      "creators": [
+        {
+          "id": 417,
+          "name": "Chris Bachalo",
+          "role": "credit.art"
+        },
+        {
+          "id": 417,
+          "name": "Chris Bachalo",
+          "role": "credit.cover"
+        },
+        {
+          "id": 120,
+          "name": "Jason Aaron",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "41350",
+      "description": "Collects Doctor Strange (2015) #1-5.\r\n\r\nOnly Doctor Strange can protect our world from the darkness beyond — now, witness the full toll that constant struggle takes on Earth's Sorcerer Supreme! Every spell cast comes at a cost, but what happens when Strange falls behind on his tab? Find out as the good doctor wakes up somewhere very odd, nearly naked — with no spell books, no weapons and no memory of how he got there...or why all the monsters are chasing him! And as a new visitor to Strange's Sanctum Sanctorum learns one wrong door can lead to oblivion, a magic circle of Strange's friends and allies are about to face their greatest threat. Dark forces are destroying everything mystical in the multiverse, and their sights are set on this dimension. Magic's days are numbered, and Doctor Strange is not ready!",
+      "id": 367511,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/367511/367511._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 115,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2016-04-27",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 55226,
+        "position": 600,
+        "subscribable": false,
+        "title": "Doctor Strange (2015-2018)"
+      },
+      "sku": "DIG082211",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 89,
+        "userRatingCount": 609
+      },
+      "title": "Doctor Strange",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "The Way of the Weird"
+    },
+    {
+      "asin": "B07MBQP83T",
+      "creators": [
+        {
+          "id": 1125,
+          "name": "Sara Pichelli",
+          "role": "credit.art"
+        },
+        {
+          "id": 457,
+          "name": "Simone Bianchi",
+          "role": "credit.art"
+        },
+        {
+          "id": 398,
+          "name": "Skottie Young",
+          "role": "credit.art"
+        },
+        {
+          "id": 397,
+          "name": "Esad Ribic",
+          "role": "credit.cover"
+        },
+        {
+          "id": 315,
+          "name": "Dan Slott",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "50906",
+      "description": "Collects Fantastic Four (2018) #1-4.\r\n\r\nThe wait is over! The Thing, the Human Torch, the Invisible Woman and Mister Fantastic — the first four heroes of the Marvel Age of Comics — are about to be reunited! Experience the grand return of the greatest family in the Marvel Universe! As an event occurs that will radically alter the Fantastic Four, Reed and Sue Richards return home with their children. But things have changed! And while Alicia Masters and the Thing ponder a big change of their own, the next chapter begins in the life of Victor Von Doom! Plus: Who are the Marvel Universe's newest fabulous foursome — the Fantastix?! How did they come into possession of the Baxter Building? And what does that mean for the original FF? The World's Greatest Comic Magazine is back — and better than ever!",
+      "id": 743882,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/743882/743882._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 112,
+      "price": {
+        "cuDiscount": 7.64,
+        "cuDiscountLocal": 8.49,
+        "cuDiscountLocalFormatted": "8,49 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": "2019-03-06",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-03-06",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 119542,
+        "position": 100,
+        "subscribable": true,
+        "title": "Fantastic Four (2018-)"
+      },
+      "sku": "Z00049889",
+      "status": {
+        "ageRating": 9,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 83,
+        "userRatingCount": 381
+      },
+      "title": "Fantastic Four",
+      "unlimitedEligible": false,
+      "volumeNumber": "1",
+      "volumeTitle": "Fourever"
+    },
+    {
+      "asin": "B07C89Q6N8",
+      "creators": [
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.art"
+        },
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.cover"
+        },
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "47856",
+      "description": "Collects Fantastic Four (1961) #232-240.\r\n\r\nIt was the world's greatest comic magazine. Again. Not since the days of Stan Lee and Jack Kirby, the trailblazers of the very mythology known as the Marvel Universe, had someone so perfectly captured the intense mood, cosmic style and classic sense of adventure of Marvel's first family of heroes - the Fantastic Four. Writer. Penciler. Inker. Visionary. John Byrne took these characters, whose powers resulted from each of them being bathed in cosmic rays during a flight into space, and launched them into realms where few creators before this had dared to go... Byrne reminded us all there was a family at the heart of this team of adventurers.",
+      "id": 672579,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/672579/672579._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 225,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2018-05-10",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 4319,
+        "position": 6500,
+        "subscribable": false,
+        "title": "Fantastic Four (1961-1996)"
+      },
+      "sku": "Z00038113",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 90,
+        "userRatingCount": 72
+      },
+      "title": "Fantastic Four Visionaries: John Byrne",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07Z8HGWC3",
+      "creators": [
+        {
+          "id": 2761,
+          "name": "Pepe Larraz",
+          "role": "credit.art"
+        },
+        {
+          "id": 2030,
+          "name": "R. Silva",
+          "role": "credit.art"
+        },
+        {
+          "id": 354,
+          "name": "Mark Brooks",
+          "role": "credit.cover"
+        },
+        {
+          "id": 1250,
+          "name": "Jonathan Hickman",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "53322",
+      "description": "Collects Powers Of X #1-6, House Of X #1-6.\r\n\r\nFace the future — and fear the future — as superstar writer Jonathan Hickman (INFINITY, NEW AVENGERS, FANTASTIC FOUR) changes everything for the X-Men! In HOUSE OF X, Charles Xavier reveals his master plan for mutantkind — one that will bring mutants out of humankind’s shadow and into the light once more! Meanwhile, POWERS OF X reveals mutantkind’s secret history, changing the way you will look at every X-Men story before and after. But as Xavier sows the seeds of the past, the X-Men’s future blossoms into trouble for all of mutantdom. Stories intertwine on an epic scale as Jonathan Hickman reshapes the X-Men’s past, present and future!",
+      "id": 806714,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/806714/806714._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 423,
+      "price": {
+        "cuDiscount": 21.24,
+        "cuDiscountLocal": 23.79,
+        "cuDiscountLocalFormatted": "23,79 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 24.99,
+        "discountFormatted": "27,99 €",
+        "discountLocal": 27.99,
+        "full": 24.99,
+        "fullFormatted": "27,99 €",
+        "fullLocal": 27.99,
+        "isOnSale": false
+      },
+      "publishDate": "2019-12-11",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-12-11",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 136512,
+        "position": 0,
+        "subscribable": false,
+        "title": "House Of X/Powers Of X"
+      },
+      "sku": "Z00060680",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 95,
+        "userRatingCount": 684
+      },
+      "title": "House Of X/Powers Of X",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00AAJR0GI",
+      "creators": [
+        {
+          "id": 145,
+          "name": "Greg Pak",
+          "role": "credit.writer"
+        },
+        {
+          "id": 147,
+          "name": "Carlo Pagulayan",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 1033,
+          "name": "Aaron Lopresti",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 148,
+          "name": "Gary Frank",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 1103,
+          "name": "Takeshi Miyazawa",
+          "role": "credit.penciler"
+        }
+      ],
+      "customId": "24166",
+      "description": "Collecting Incredible Hulk Vol. 2 #92-105, plus stories from Amazing Fantasy Vol. 2 #15, Giant-Size Hulk Vol. 2 #1, and the Planet Hulk Gladiator Guidebook.\r\n\r\nSavage alien planet. Oppressed barbarian tribes. Corrupt emperor. Deadly woman warrior. Gladiators and slaves. Battle axes and hand blasters. Monsters and heroes... and the Incredible Hulk!",
+      "id": 15083,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/15083/15083._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 401,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": "2008-04-02",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2011-09-29",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 920,
+        "position": 2500,
+        "subscribable": false,
+        "title": "Incredible Hulk (1999-2007)"
+      },
+      "sku": "FEB082298",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 94,
+        "userRatingCount": 487
+      },
+      "title": "Hulk: Planet Hulk",
+      "unlimitedEligible": true,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00CMOIL7Q",
+      "creators": [
+        {
+          "id": 9,
+          "name": "Robert Kirkman",
+          "role": "credit.writer"
+        },
+        {
+          "id": 35,
+          "name": "Cory Walker",
+          "role": "credit.art"
+        },
+        {
+          "id": 36,
+          "name": "Bill Crabtree",
+          "role": "credit.colorist"
+        }
+      ],
+      "customId": null,
+      "description": "Mark Grayson est un ado comme tous ceux de son âge? ou presque. Il va au lycée, adore les filles (sans les comprendre) et passe le plus clair de son temps avec ses potes. La seule différence entre lui et les autres tient au fait que son père est le super-héros le plus puissant de tous les temps? et que lui-même semble avoir hérité des mêmes pouvoirs !",
+      "id": 42118,
+      "image": {
+        "height": 978,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/42118/DIG004525_1._TTD_QL80_%s.jpg",
+        "width": 640
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 144,
+      "price": {
+        "cuDiscount": 8.99,
+        "cuDiscountLocal": 9.99,
+        "cuDiscountLocalFormatted": "9,99 €",
+        "cuDiscountPercentSaved": 0,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "126-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/88/logo/88_tile_img_full._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Delcourt"
+      },
+      "releaseDate": "2013-06-18",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 11046,
+        "position": 100,
+        "subscribable": false,
+        "title": "Invincible"
+      },
+      "sku": "DIG004525",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "FR",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 88,
+        "userRatingCount": 35
+      },
+      "title": "Invincible",
+      "unlimitedEligible": false,
+      "volumeNumber": "1",
+      "volumeTitle": "Affaires de famille"
+    },
+    {
+      "asin": "B07MZGHWN4",
+      "creators": [
+        {
+          "id": 2930,
+          "name": "Mitch Gerads",
+          "role": "credit.art"
+        },
+        {
+          "id": 24635,
+          "name": "Tom King",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "T1851800018301",
+      "description": "From Hugo Award-winning writer Tom King and artist Mitch Gerads, the team behind THE SHERIFF OF BABYLON, comes an ambitious new take on one of Jack Kirby's most beloved New Gods in MISTER MIRACLE! One of the best-reviewed series of the year and already a classic in the making, this Mister Miracle is magical, dark, intimate and unlike anything you've read before.\r\n \r\nScott Free is the greatest escape artist who ever lived. So great, he escaped Granny Goodness' gruesome orphanage and the dangers of Apokolips to travel across galaxies and set up a new life on Earth with his wife, Big Barda. Using the stage alter ego of Mister Miracle, he has made quite a career for himself showing off his acrobatic escape techniques. He even caught the attention of the Justice League, who has counted him among its ranks.\r\n\r\n You might say Scott Free has everything--so why isn't it enough? Mister Miracle has mastered every illusion, achieved every stunt, pulled off every trick--except one. He has never escaped death. Is it even possible? Our hero is going to have to kill himself if he wants to find out.\r\n\r\n Collects MISTER MIRACLE #1-12.",
+      "id": 752592,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/752592/752592._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 319,
+      "price": {
+        "cuDiscount": 11.24,
+        "cuDiscountLocal": 12.15,
+        "cuDiscountLocalFormatted": "12,15 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 13.22,
+        "discountFormatted": "14,29 €",
+        "discountLocal": 14.29,
+        "full": 16.99,
+        "fullFormatted": "18,99 €",
+        "fullLocal": 18.99,
+        "isOnSale": true
+      },
+      "publishDate": "2019-02-19",
+      "publisherInfo": {
+        "id": "1-0",
+        "image": {
+          "height": 400,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/58/logo/58._TTD_QL80_%s.jpg",
+          "width": 400
+        },
+        "title": "DC"
+      },
+      "releaseDate": "2019-02-19",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 98093,
+        "position": 0,
+        "subscribable": false,
+        "title": "Mister Miracle (2017-2019)"
+      },
+      "sku": "Z00051305",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 94,
+        "userRatingCount": 562
+      },
+      "title": "Mister Miracle (2017-2019)",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00NEW45XE",
+      "creators": [
+        {
+          "id": 3081,
+          "name": "G. Wilson",
+          "role": "credit.writer"
+        },
+        {
+          "id": 431,
+          "name": "Adrian Alphona",
+          "role": "credit.art"
+        },
+        {
+          "id": 1125,
+          "name": "Sara Pichelli",
+          "role": "credit.cover"
+        }
+      ],
+      "customId": "35218",
+      "description": "Collects Ms. Marvel (2014) #1-5, All-New Marvel Now! Point One (Ms. Marvel story).\r\n\r\nMarvel Comics presents the all-new Ms. Marvel, the groundbreaking heroine that has become an international sensation! Kamala Khan is an ordinary girl from Jersey City - until she is suddenly empowered with extraordinary gifts. But who truly is the all-new Ms. Marvel? Teenager? Muslim? Inhuman? Find out as she takes the Marvel Universe by storm! As Kamala discovers the dangers of her newfound powers, she unlocks a secret behind them as well. Is Kamala ready to wield these immense new gifts? Or will the weight of the legacy before her be too much to handle? Kamala has no idea either. But she's comin' for you, New York!",
+      "id": 150745,
+      "image": {
+        "height": 990,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/150745/DIG029169_1._TTD_QL80_%s.jpg",
+        "width": 640
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 120,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2014-10-15",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 13864,
+        "position": 400,
+        "subscribable": false,
+        "title": "Ms. Marvel (2014-2015)"
+      },
+      "sku": "DIG029169",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 92,
+        "userRatingCount": 998
+      },
+      "title": "Ms. Marvel",
+      "unlimitedEligible": true,
+      "volumeNumber": "1",
+      "volumeTitle": "No Normal"
+    },
+    {
+      "asin": null,
+      "creators": [
+        {
+          "id": 9,
+          "name": "Robert Kirkman",
+          "role": "credit.writer"
+        },
+        {
+          "id": 123153,
+          "name": "Paul Azaceta",
+          "role": "credit.art"
+        }
+      ],
+      "customId": null,
+      "description": "Depuis toujours, Kyle est tourmenté par des possessions démoniaques en quête de réponses, c'est bien la terre entière qu'il pourrait même en danger...\r\n\r\nKyle Barnes vit reclus dans sa maison. Terrassé par un passé douloureux, il lutte contre l'emprise de démons sur sa vie. Lorsqu'il est sollicité pour pratiquer un exorcisme, il commence à faire le lien avec la possession de sa mère. Kyle va découvrir la véritable nature de ses dons, qui vont s'avérer terrifiants.",
+      "id": 211918,
+      "image": {
+        "height": 1650,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/211918/DIG055538_1._TTD_QL80_%s.jpg",
+        "width": 1103
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 168,
+      "price": {
+        "cuDiscount": 8.99,
+        "cuDiscountLocal": 9.99,
+        "cuDiscountLocalFormatted": "9,99 €",
+        "cuDiscountPercentSaved": 0,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "126-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/88/logo/88_tile_img_full._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Delcourt"
+      },
+      "releaseDate": "2015-03-31",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 43486,
+        "position": 100,
+        "subscribable": false,
+        "title": "Outcast"
+      },
+      "sku": "DIG055538",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "FR",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 90,
+        "userRatingCount": 4
+      },
+      "title": "Outcast",
+      "unlimitedEligible": false,
+      "volumeNumber": "1",
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00DZXUFZO",
+      "creators": [
+        {
+          "id": 136,
+          "name": "Brian Bendis",
+          "role": "credit.writer"
+        },
+        {
+          "id": 295,
+          "name": "Leinil Yu",
+          "role": "credit.penciler"
+        },
+        {
+          "id": 2053,
+          "name": "Gabriele Dell'Otto",
+          "role": "credit.cover"
+        }
+      ],
+      "customId": "24421",
+      "description": "Collects Secret Invasion (2008) #1-8. The shape-shifting Skrulls have been infiltrating the Earth for years, replacing many of Marvel's heroes with impostors, setting the stage for an all-out invasion.",
+      "id": 16145,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/16145/16145._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 218,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": "2009-01-07",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2011-10-20",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 1541,
+        "position": 500,
+        "subscribable": false,
+        "title": "Secret Invasion"
+      },
+      "sku": "NOV082460",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 84,
+        "userRatingCount": 443
+      },
+      "title": "Secret Invasion",
+      "unlimitedEligible": true,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B01BL1E3NQ",
+      "creators": [
+        {
+          "id": 397,
+          "name": "Esad Ribic",
+          "role": "credit.art"
+        },
+        {
+          "id": 1782,
+          "name": "Paul Renaud",
+          "role": "credit.art"
+        },
+        {
+          "id": 4,
+          "name": "Alex Ross",
+          "role": "credit.cover"
+        },
+        {
+          "id": 1250,
+          "name": "Jonathan Hickman",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "40081",
+      "description": "Collects Secret Wars #1-9, Free Comic Book Day 2015 Secret Wars #0 (Secret Wars story).\r\n\r\nThe Marvel Universe is no more! The interdimensional Incursions have eliminated each and every alternate universe one by one. And now — despite the best efforts of the scientists, sages and superhumans — the Marvel Universe and Ultimate Universe have collided...and been destroyed! All that exists in the vast empty cosmos is a single, titanic patchwork planet made of the fragmented remains of hundreds of devastated dimensions: Battleworld! And the survivors of this multiversal catastrophe all bend their knee to Battleworld's master: Doctor Doom! What strange creatures inhabit this world? Which familiar faces will return? And what happens when Battleworld's various domains go to war? The Marvel Universe is dead — and the victors of the Secret Wars will determine what comes next!",
+      "id": 339426,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/339426/339426._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 284,
+      "price": {
+        "cuDiscount": 0.0,
+        "cuDiscountLocal": 0.0,
+        "cuDiscountLocalFormatted": "price.free",
+        "cuDiscountPercentSaved": 15,
+        "discount": 0.0,
+        "discountFormatted": "price.free",
+        "discountLocal": 0.0,
+        "full": 0.0,
+        "fullFormatted": "price.free",
+        "fullLocal": 0.0,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2016-03-16",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 39892,
+        "position": 400,
+        "subscribable": false,
+        "title": "Secret Wars (2015-2016)"
+      },
+      "sku": "DIG076719",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 88,
+        "userRatingCount": 774
+      },
+      "title": "Secret Wars",
+      "unlimitedEligible": true,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07Z8H6JQQ",
+      "creators": [
+        {
+          "id": 4359,
+          "name": "Tradd Moore",
+          "role": "credit.art"
+        },
+        {
+          "id": 4359,
+          "name": "Tradd Moore",
+          "role": "credit.cover"
+        },
+        {
+          "id": 35579,
+          "name": "Donny Cates",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "53329",
+      "description": "Collects Silver Surfer: Black #1-5.\r\n\r\nIs this the end of Norrin Radd? In GUARDIANS OF THE GALAXY, the cosmos’ greatest defenders were thrown through a black hole — including the Silver Surfer! But his story doesn’t end there! To beat back oblivion and avoid losing himself to the darkness, the Sentinel of the Spaceways must call on all his inner light to save his own soul! With his Power Cosmic fading and the all-consuming darkness descending, will help come in the form of an unexpected ally? When the Surfer discovers something with the potential power to turn the tide, is he prepared to pay the terrible price for awakening it? And how does the Surfer’s predicament tie in to the sinister world of symbiotes? Donny Cates and Tradd Moore take the Surfer on a journey that will change him forever!",
+      "id": 806749,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/806749/806749._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 110,
+      "price": {
+        "cuDiscount": 7.64,
+        "cuDiscountLocal": 8.49,
+        "cuDiscountLocalFormatted": "8,49 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": "2019-12-11",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-12-11",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 130466,
+        "position": 0,
+        "subscribable": false,
+        "title": "Silver Surfer: Black (2019)"
+      },
+      "sku": "Z00060687",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 87,
+        "userRatingCount": 146
+      },
+      "title": "Silver Surfer: Black",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B07D513PS7",
+      "creators": [
+        {
+          "id": 6025,
+          "name": "Geoff Shaw",
+          "role": "credit.art"
+        },
+        {
+          "id": 3832,
+          "name": "Katie Cook",
+          "role": "credit.art"
+        },
+        {
+          "id": 1337,
+          "name": "Frazer Irving",
+          "role": "credit.art"
+        },
+        {
+          "id": 6025,
+          "name": "Geoff Shaw",
+          "role": "credit.cover"
+        },
+        {
+          "id": 35579,
+          "name": "Donny Cates",
+          "role": "credit.writer"
+        },
+        {
+          "id": 1864,
+          "name": "Kieron Gillen",
+          "role": "credit.writer"
+        },
+        {
+          "id": 4868,
+          "name": "Al Ewing",
+          "role": "credit.writer"
+        },
+        {
+          "id": 5343,
+          "name": "Ryan North",
+          "role": "credit.writer"
+        },
+        {
+          "id": 9324,
+          "name": "Christopher Hastings",
+          "role": "credit.writer"
+        },
+        {
+          "id": 3832,
+          "name": "Katie Cook",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "48336",
+      "description": "Collects Thanos (2016) #13-18 And Thanos Annual (2018) #1.\r\n\r\nAsk the most powerful beings in the Marvel Universe how they fear the universe will end, and in their most honest moment, they will answer with two words: \"Thanos wins.\" And now, it looks as though that disturbing thought is about to become a horrific reality! See what happens when the Mad Titan gets his way! Thanos journeys to the end of time and his moment of complete victory…and still isn't happy with what he sees. Witness the Mad Titan's greatest glory — and ultimate shame! And no matter what form Thanos' victory takes, is there any way that anyone — or anything — can possibly survive? Featuring the Silver Surfer and introducing the all-new cosmic Spirit of Vengeance, Ghost Rider!",
+      "id": 664908,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/664908/664908._TTD_QL80_%s.jpg",
+        "width": 1987
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 159,
+      "price": {
+        "cuDiscount": 11.04,
+        "cuDiscountLocal": 11.89,
+        "cuDiscountLocalFormatted": "11,89 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 12.99,
+        "discountFormatted": "13,99 €",
+        "discountLocal": 13.99,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": false
+      },
+      "publishDate": "2018-06-27",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2018-06-27",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 81083,
+        "position": 550,
+        "subscribable": false,
+        "title": "Thanos (2016-2018)"
+      },
+      "sku": "Z00036829",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 92,
+        "userRatingCount": 460
+      },
+      "title": "Thanos Wins by Donny Cates",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B077ZG3HY4",
+      "creators": [
+        {
+          "id": 3344,
+          "name": "Gabriel Walta",
+          "role": "credit.art"
+        },
+        {
+          "id": 6995,
+          "name": "Michael Walsh",
+          "role": "credit.art"
+        },
+        {
+          "id": 1815,
+          "name": "Mike Del Mundo",
+          "role": "credit.cover"
+        },
+        {
+          "id": 24635,
+          "name": "Tom King",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "47066",
+      "description": "Collects Vision Director's Cut #1-6.\r\n\r\nWINNER OF 2017 Eisner AWARD for Best Limited Series!  One of the most celebrated comic books of the century, collected alongside an expansive array of special features! Vision wants to be human, and what's more human than family? So he heads back to the beginning — to the laboratory where Ultron created him as a weapon. The place where he first rebelled against his destiny and imagined that he could be more — that he could be a man. There, he builds them. A wife, Virginia. Teenage twins, Viv and Vin. They look like him. They have his powers. They share his grandest ambition — or obsession? — the unrelenting need to be ordinary. Behold the Visions! Theirs is a story of togetherness and tragedy — one that will set the Android Avenger on course for a devastating confrontation with Earth's Mightiest Heroes.",
+      "id": 598330,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/598330/598330._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 484,
+      "price": {
+        "cuDiscount": 11.04,
+        "cuDiscountLocal": 11.89,
+        "cuDiscountLocalFormatted": "11,89 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 12.99,
+        "discountFormatted": "13,99 €",
+        "discountLocal": 13.99,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": false
+      },
+      "publishDate": "2018-01-10",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2018-01-10",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 93084,
+        "position": 0,
+        "subscribable": false,
+        "title": "Vision: Director's Cut (2017)"
+      },
+      "sku": "Z00024826",
+      "status": {
+        "ageRating": 12,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 96,
+        "userRatingCount": 480
+      },
+      "title": "Vision: The Complete Series",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B00BSXLMJ6",
+      "creators": [
+        {
+          "id": 9,
+          "name": "Robert Kirkman",
+          "role": "credit.writer"
+        },
+        {
+          "id": 526,
+          "name": "Tony Moore",
+          "role": "credit.art"
+        },
+        {
+          "id": 44,
+          "name": "Charlie Adlard",
+          "role": "credit.art"
+        },
+        {
+          "id": 45,
+          "name": "Cliff Rathburn",
+          "role": "credit.colorist"
+        },
+        {
+          "id": 7522,
+          "name": "Edmond Tourriol",
+          "role": "credit.translator"
+        }
+      ],
+      "customId": null,
+      "description": "Le monde tel que nous le connaissions n'existe plus. La Terre, ravagée par une mystérieuse épidémie, est devenue un cimetière à ciel ouvert. Pire, les morts ne meurent plus et errent à la recherche des derniers humains pour s'en repaître. Parmi les survivants, Rick, policier, se réveille d'un long coma pour découvrir ce que son monde est devenu. Le choc passé, il doit désormais apprendre à survivre...",
+      "id": 36197,
+      "image": {
+        "height": 983,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/36197/ICO005081_2._TTD_QL80_%s.jpg",
+        "width": 640
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 138,
+      "price": {
+        "cuDiscount": 8.99,
+        "cuDiscountLocal": 9.99,
+        "cuDiscountLocalFormatted": "9,99 €",
+        "cuDiscountPercentSaved": 0,
+        "discount": 8.99,
+        "discountFormatted": "9,99 €",
+        "discountLocal": 9.99,
+        "full": 8.99,
+        "fullFormatted": "9,99 €",
+        "fullLocal": 9.99,
+        "isOnSale": false
+      },
+      "publishDate": null,
+      "publisherInfo": {
+        "id": "126-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/88/logo/88_tile_img_full._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Delcourt"
+      },
+      "releaseDate": "2013-01-29",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 9893,
+        "position": 900,
+        "subscribable": false,
+        "title": "Walking Dead"
+      },
+      "sku": "ICO005081",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "FR",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 90,
+        "userRatingCount": 69
+      },
+      "title": "Walking Dead",
+      "unlimitedEligible": false,
+      "volumeNumber": "1",
+      "volumeTitle": "Passé décomposé"
+    },
+    {
+      "asin": "B07Q8W8HLK",
+      "creators": [
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.art"
+        },
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.cover"
+        },
+        {
+          "id": 253,
+          "name": "Chris Claremont",
+          "role": "credit.writer"
+        },
+        {
+          "id": 108,
+          "name": "John Byrne",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "51780",
+      "description": "Collects Uncanny X-Men (1963) #129-137.\r\n\r\nThe biggest and best adventures of Marvel's mighty mutants — these are the X-Men Milestones! It doesn't get any more iconic than this tale of triumph and tragedy! The X-Men have fought many battles, embarked on galaxy-spanning adventures and defeated enemies of limitless might — but none of it prepared them for the most shocking struggle they would ever face. One of their own, Jean Grey, has gained cosmic power beyond all comprehension — and that power has corrupted her absolutely! Now the X-Men must decide between the life of the friend they cherish…and the possible destruction of the entire universe! This touching tale of ultimate power and the triumph of the human spirit has been a cornerstone of the X-Men mythos for decades. Relive the saga that changed everything!",
+      "id": 765608,
+      "image": {
+        "height": 3056,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/765608/765608._TTD_QL80_%s.jpg",
+        "width": 1988
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 201,
+      "price": {
+        "cuDiscount": 14.44,
+        "cuDiscountLocal": 16.14,
+        "cuDiscountLocalFormatted": "16,14 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 16.99,
+        "discountFormatted": "18,99 €",
+        "discountLocal": 18.99,
+        "full": 16.99,
+        "fullFormatted": "18,99 €",
+        "fullLocal": 18.99,
+        "isOnSale": false
+      },
+      "publishDate": "2019-06-26",
+      "publisherInfo": {
+        "id": "2-0",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/15/logo/15_tile_img_full_0_1_2_3._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Marvel"
+      },
+      "releaseDate": "2019-06-26",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 131679,
+        "position": 50,
+        "subscribable": false,
+        "title": "X-Men Milestones"
+      },
+      "sku": "Z00053612",
+      "status": {
+        "ageRating": 9,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 92,
+        "userRatingCount": 137
+      },
+      "title": "X-Men Milestones: Dark Phoenix Saga",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B01IO7OKX8",
+      "creators": [
+        {
+          "id": 12,
+          "name": "Brian Vaughan",
+          "role": "credit.writer"
+        },
+        {
+          "id": 1722,
+          "name": "Pia Guerra",
+          "role": "credit.art"
+        }
+      ],
+      "customId": "T1542500018301",
+      "description": "A MAN FOR ALL SEASONS\r\n\r\nIn 2002, the world changes forever. Every man, every boy, every mammal with a Y chromosome everywhere on Earth suddenly collapses and dies. With the loss of nearly half the planet's population, the gears of society grind to a halt, and a world of women is left to pick up the pieces and try to keep civilization from collapsing entirely.\r\n\r\nThe \"gendercide,\" however, is not absolutely complete. For some unknown reason, one young man named Yorick Brown and his pet male monkey, Ampersand, are spared. Overnight, this anonymous twenty-something becomes the most important person on the planet - the key, it is hoped, to unlocking the secret of the mysterious sex-specific plague.\r\n\r\nFor Yorick himself, the cause of the epidemic is less important than the fate of his beloved fiancée, Beth. Now, after nearly four years and countless grueling miles, the final answers are about to be revealed-and the truth may be more than any man could bear.\r\n\r\nIn the conclusion to their acclaimed VERTIGO series Y: THE LAST MAN, writer Brian K. Vaughan and artist Pia Guerra bring to vivid life the age-old speculation: What would really happen to the last man on Earth? \r\n\r\nCollects Y: THE LAST MAN #49-60.",
+      "id": 411578,
+      "image": {
+        "height": 1649,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/411578/411578._TTD_QL80_%s.jpg",
+        "width": 1074
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 327,
+      "price": {
+        "cuDiscount": 8.59,
+        "cuDiscountLocal": 9.51,
+        "cuDiscountLocalFormatted": "9,51 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.11,
+        "discountFormatted": "11,19 €",
+        "discountLocal": 11.19,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": true
+      },
+      "publishDate": "2016-08-16",
+      "publisherInfo": {
+        "id": "1-3",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/8/logo/8._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Vertigo"
+      },
+      "releaseDate": "2016-08-16",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 475,
+        "position": 288,
+        "subscribable": false,
+        "title": "Y: The Last Man"
+      },
+      "sku": "DIG090603",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 96,
+        "userRatingCount": 215
+      },
+      "title": "Y: The Last Man: Book Five",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": ""
+    },
+    {
+      "asin": "B01AORO2FM",
+      "creators": [
+        {
+          "id": 1722,
+          "name": "Pia Guerra",
+          "role": "credit.art"
+        },
+        {
+          "id": 3173,
+          "name": "Goran Sudzuka",
+          "role": "credit.art"
+        },
+        {
+          "id": 3996,
+          "name": "Jose Marzan Jr.",
+          "role": "credit.art"
+        },
+        {
+          "id": 12,
+          "name": "Brian Vaughan",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "T1504300018301",
+      "description": "The continuation of Brian K. Vaughan and artist Pia Guerra's acclaimed VERTIGO series Y: THE LAST MAN brings to vivid life the age-old speculation: What would really happen to the last man on Earth?  \r\n\r\nIn 2002, the world changes forever. Every man, every boy, every mammal with a Y chromosome everywhere on Earth suddenly collapses and dies. With the loss of nearly half the planet's population, the gears of society grind to a halt, and a world of women are left to pick up the pieces and try to keep civilization from collapsing entirely. \r\n\r\nThe \"gendercide,\" however, is not absolutely complete. For some unknown reason, one young man named Yorick Brown and his pet male monkey, Ampersand, are spared. Overnight, this anonymous twenty-something becomes the most important person on the planet—the key, it is hoped, to unlocking the secret of the mysterious sex-specific plague. \r\n\r\nFor Yorick himself, the most important person on the planet has been agonizingly out of reach. But now, after three long years and 10,000 arduous miles, the last man is closing in on the truth about his lost fiancée—and the shocking facts behind his own survival. \r\n\r\nCollects Y: THE LAST MAN #37-48",
+      "id": 332250,
+      "image": {
+        "height": 1649,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/332250/332250._TTD_QL80_%s.jpg",
+        "width": 1074
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 295,
+      "price": {
+        "cuDiscount": 8.49,
+        "cuDiscountLocal": 9.34,
+        "cuDiscountLocalFormatted": "9,34 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 9.99,
+        "discountFormatted": "10,99 €",
+        "discountLocal": 10.99,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": true
+      },
+      "publishDate": "2016-02-16",
+      "publisherInfo": {
+        "id": "1-3",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/8/logo/8._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Vertigo"
+      },
+      "releaseDate": "2016-02-16",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 475,
+        "position": 275,
+        "subscribable": false,
+        "title": "Y: The Last Man"
+      },
+      "sku": "DIG075446",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 95,
+        "userRatingCount": 196
+      },
+      "title": "Y: The Last Man: Book Four",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": null
+    },
+    {
+      "asin": "B013TGYLWO",
+      "creators": [
+        {
+          "id": 12,
+          "name": "Brian Vaughan",
+          "role": "credit.writer"
+        },
+        {
+          "id": 1722,
+          "name": "Pia Guerra",
+          "role": "credit.art"
+        },
+        {
+          "id": 3173,
+          "name": "Goran Sudzuka",
+          "role": "credit.art"
+        }
+      ],
+      "customId": "T1444600018301",
+      "description": "Every man, every boy and every other mammal with a Y chromosome everywhere on Earth is dead. The gears of society grind to a halt following the loss of nearly half the planet's population, and a world of women are left to pick up the pieces and try to keep civilization from collapsing entirely.\r\n\r\nThe \"gendercide,\" however, is not absolutely complete. For some unknown reason, one young man named Yorick Brown and his male monkey, Ampersand, are spared. Overnight, this anonymous twentysomething becomes the most important person on the planet-the key, it is hoped, to unlocking the secret of the mysterious sex-specific plague.\r\n\r\nFor Yorick himself, the most important person on the planet is 7,000 miles away-and he will stop at nothing to find her. But with an entire ocean still standing between them, chances for a reunion are fading-and new threats are closing in from every side.\r\n\r\nWriter Brian K. Vaughan and artist Pia Guerra's acclaimed VERTIGO series Y: THE LAST MAN brings to vivid life the age-old speculation: What would really happen to the last man on Earth? Collects Y: THE LAST MAN #24-36.",
+      "id": 264012,
+      "image": {
+        "height": 1649,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/264012/264012._TTD_QL80_%s.jpg",
+        "width": 1074
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 320,
+      "price": {
+        "cuDiscount": 8.59,
+        "cuDiscountLocal": 9.51,
+        "cuDiscountLocalFormatted": "9,51 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.11,
+        "discountFormatted": "11,19 €",
+        "discountLocal": 11.19,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": true
+      },
+      "publishDate": "2015-09-29",
+      "publisherInfo": {
+        "id": "1-3",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/8/logo/8._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Vertigo"
+      },
+      "releaseDate": "2015-09-29",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 475,
+        "position": 250,
+        "subscribable": false,
+        "title": "Y: The Last Man"
+      },
+      "sku": "DIG063363",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 96,
+        "userRatingCount": 215
+      },
+      "title": "Y: The Last Man: Book Three",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": ""
+    },
+    {
+      "asin": "B00U9PCSP6",
+      "creators": [
+        {
+          "id": 1722,
+          "name": "Pia Guerra",
+          "role": "credit.art"
+        },
+        {
+          "id": 12,
+          "name": "Brian Vaughan",
+          "role": "credit.writer"
+        }
+      ],
+      "customId": "T1362400018301",
+      "description": "A Russian spacecraft from the International Space Station returns to Earth carrying three passengers: one woman and two men. Could this be the end of Yorick's status as the last living male? Plus, the group runs up against a roadblock in Arizona where the female remains of the Sons of Arizona militia have cut the interstate to keep out any vestiges of the U.S. government. Collecting issues #11-23.",
+      "id": 195465,
+      "image": {
+        "height": 1650,
+        "optionsFormat": {
+          "end": "_",
+          "height": "SY%i",
+          "separator": "_",
+          "start": "",
+          "width": "SX%i"
+        },
+        "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/195465/DIG053124_3._TTD_QL80_%s.jpg",
+        "width": 1073
+      },
+      "issueCount": null,
+      "issueNumber": null,
+      "issueTitle": null,
+      "pageCount": 313,
+      "price": {
+        "cuDiscount": 8.59,
+        "cuDiscountLocal": 9.51,
+        "cuDiscountLocalFormatted": "9,51 €",
+        "cuDiscountPercentSaved": 15,
+        "discount": 10.11,
+        "discountFormatted": "11,19 €",
+        "discountLocal": 11.19,
+        "full": 12.99,
+        "fullFormatted": "13,99 €",
+        "fullLocal": 13.99,
+        "isOnSale": true
+      },
+      "publishDate": "2015-03-10",
+      "publisherInfo": {
+        "id": "1-3",
+        "image": {
+          "height": 600,
+          "optionsFormat": {
+            "end": "_",
+            "height": "SY%i",
+            "separator": "_",
+            "start": "",
+            "width": "SX%i"
+          },
+          "url": "https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/PublisherPage/8/logo/8._TTD_QL80_%s.jpg",
+          "width": 600
+        },
+        "title": "Vertigo"
+      },
+      "releaseDate": "2015-03-10",
+      "sellerOfRecord": "comiXology",
+      "seriesInfo": {
+        "id": 475,
+        "position": 200,
+        "subscribable": false,
+        "title": "Y: The Last Man"
+      },
+      "sku": "DIG053124",
+      "status": {
+        "ageRating": 17,
+        "bundleOnly": false,
+        "drmFree": false,
+        "geoRestricted": false,
+        "guidedViewNative": false,
+        "language": "EN",
+        "mangaFixedFormat": false,
+        "preorder": false,
+        "quality": "HD",
+        "restricted": false,
+        "userRating": 96,
+        "userRatingCount": 297
+      },
+      "title": "Y: The Last Man: Book Two",
+      "unlimitedEligible": false,
+      "volumeNumber": null,
+      "volumeTitle": ""
+    }
+  ],
+  "title": null,
+  "type": "book"
+}
