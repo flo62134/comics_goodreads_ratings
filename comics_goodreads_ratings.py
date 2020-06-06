@@ -1,4 +1,5 @@
 import config
+import json
 
 GOODREADS_SEARCH_URL = 'https://www.goodreads.com/search.xml'
 
@@ -15,9 +16,9 @@ def fetch_book_rating(book: str):
     pass
 
 
-def ask_books():
-    json = input('Enter books response from Comixology:')
-    return dict(json)
+def read_books(file_path: str):
+    with open(file_path) as json_file:
+        return json.load(json_file)
 
 
 def display_ratings(books):
@@ -25,7 +26,8 @@ def display_ratings(books):
 
 
 def main():
-    print('Hello world!')
+    books = read_books('./comixology_books.json')
+    print(books)
 
 
 if __name__ == "__main__":

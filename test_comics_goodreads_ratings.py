@@ -1,18 +1,9 @@
 from unittest import TestCase
+import comics_goodreads_ratings
 
 
 class Test(TestCase):
-    def test_get_book_query(self):
-        self.fail()
-
-    def test_search_book(self):
-        self.fail()
-
-    def test_fetch_book_rating(self):
-        self.fail()
-
-    def test_ask_books(self):
-        self.fail()
-
-    def test_display_ratings(self):
-        self.fail()
+    def test_read_books(self):
+        books = comics_goodreads_ratings.read_books('./comixology_books_example.json')
+        first_asin = books['objects'][0]['asin']
+        self.assertEqual('B00AAJQVBS', first_asin)
