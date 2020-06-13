@@ -5,6 +5,7 @@ import requests
 import xml.etree.ElementTree as ET
 import typing
 
+
 GOODREADS_SEARCH_URL = 'https://www.goodreads.com/search.xml'
 SANITIZEDTITLES = {'Mister Miracle (2017-2019)': 'Mister Miracle'}
 
@@ -51,7 +52,7 @@ def fetch_book_rating(book_xml: str):
 
 
 def read_books(file_path: str):
-    with open(file_path) as json_file:
+    with open(file_path, 'rt', encoding='utf-8') as json_file:
         return json.load(json_file)['objects']
 
 
