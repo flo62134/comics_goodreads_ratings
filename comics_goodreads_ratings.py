@@ -5,7 +5,6 @@ import requests
 import xml.etree.ElementTree as ET
 import typing
 
-
 GOODREADS_SEARCH_URL = 'https://www.goodreads.com/search.xml'
 SANITIZEDTITLES = {'Mister Miracle (2017-2019)': 'Mister Miracle'}
 
@@ -78,8 +77,12 @@ def main():
     for book in books:
         print(get_progress_status(book, books))
         xml_book = search_goodreads_book(book)
-        book['rating'] = fetch_book_rating(xml_book)
         book['keyword'] = get_goodreads_keyword(book)
+
+        try:
+            book['rating'] = fetch_book_rating(xml_book)
+        except AttributeError as error:
+            print(f'Error with keyword: %s', book['keyword'])
 
     display_ratings(books)
 
