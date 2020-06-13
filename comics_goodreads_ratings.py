@@ -2,6 +2,7 @@ import config
 import json
 import urllib.parse
 import requests
+import xml.etree.ElementTree as ET
 
 GOODREADS_SEARCH_URL = 'https://www.goodreads.com/search.xml'
 
@@ -33,8 +34,9 @@ def search_goodreads_book(book):
     return goodreads_book.text
 
 
-def fetch_book_rating(book: str):
-    pass
+def fetch_book_rating(book_xml: str):
+    tree = ET.fromstring(book_xml)
+    return tree.find('search').find('results').find('work').find('average_rating').text
 
 
 def read_books(file_path: str):
@@ -48,7 +50,11 @@ def display_ratings(books):
 
 def main():
     books = read_books('./comixology_books.json')
-    print(search_goodreads_book(books[0]))
+    for book in books:
+        xml_book = search_goodreads_book(book)
+        rating = fetch_book_rating(xml_book)
+        keyword = get_goodreads_keyword(book)
+        print(f'{keyword}: {rating}')
 
 
 if __name__ == "__main__":
