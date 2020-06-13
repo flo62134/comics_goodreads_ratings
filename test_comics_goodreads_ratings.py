@@ -5,7 +5,7 @@ import comics_goodreads_ratings
 class Test(TestCase):
     def test_read_books(self):
         books = comics_goodreads_ratings.read_books('./comixology_books_example.json')
-        first_asin = books['objects'][0]['asin']
+        first_asin = books[0]['asin']
         self.assertEqual('B00AAJQVBS', first_asin)
 
     def test_get_goodreads_keyword_no_volume_title(self):
@@ -28,3 +28,9 @@ class Test(TestCase):
         actual = comics_goodreads_ratings.get_goodreads_keyword(book)
         expected = 'Avengers by Jason Aaron The Final Host'
         self.assertEqual(actual, expected)
+
+    def test_fetch_book_rating(self):
+        with open('./goodreads_xml_example.xml', 'rt') as file:
+            actual = comics_goodreads_ratings.fetch_book_rating(file.read())
+            expected = '4.17'
+            self.assertEqual(actual, expected)
