@@ -38,5 +38,15 @@ class Test(TestCase):
 
     def test_display_progress_status(self):
         books = [1, 2, 3]
-        actual = comics_goodreads_ratings.display_progress_status(2, books)
+        actual = comics_goodreads_ratings.get_progress_status(2, books)
         self.assertEqual(actual, 'Book 2/3')
+
+    def test_sanitize_keyword_replaced(self):
+        actual = comics_goodreads_ratings.sanitize_keyword('Mister Miracle (2017-2019)')
+        expected = 'Mister Miracle'
+        self.assertEqual(actual, expected)
+
+    def test_sanitize_keyword_unchanged(self):
+        actual = comics_goodreads_ratings.sanitize_keyword('Invincible')
+        expected = 'Invincible'
+        self.assertEqual(actual, expected)
