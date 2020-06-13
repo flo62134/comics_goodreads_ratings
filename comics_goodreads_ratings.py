@@ -50,6 +50,11 @@ def fetch_book_rating(book_xml: str):
     return tree.find('search').find('results').find('work').find('average_rating').text
 
 
+def fetch_book_ratings_count(book_xml: str):
+    tree = ET.fromstring(book_xml)
+    return tree.find('search').find('results').find('work').find('ratings_count').text
+
+
 def read_books(file_path: str):
     with open(file_path, 'rt', encoding='utf-8') as json_file:
         return json.load(json_file)['objects']
@@ -61,7 +66,8 @@ def display_ratings(books: typing.List):
     for book in books:
         keyword = book['keyword']
         rating = book['rating']
-        print(f'{keyword}: {rating}')
+        count = book['ratings_count']
+        print(f'{keyword}: {rating} ({count})')
 
 
 def get_progress_status(book, books: typing.List):
@@ -81,6 +87,7 @@ def main():
 
         try:
             book['rating'] = fetch_book_rating(xml_book)
+            book['ratings_count'] = fetch_book_ratings_count(xml_book)
         except AttributeError as error:
             print(f'Error with keyword: %s', book['keyword'])
 

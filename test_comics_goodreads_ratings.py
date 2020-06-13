@@ -36,6 +36,12 @@ class Test(TestCase):
             expected = '4.17'
             self.assertEqual(actual, expected)
 
+    def test_fetch_book_ratings_count(self):
+        with open('./goodreads_xml_example.xml', 'rt') as file:
+            actual = comics_goodreads_ratings.fetch_book_ratings_count(file.read())
+            expected = '300'
+            self.assertEqual(actual, expected)
+
     def test_display_progress_status(self):
         books = [1, 2, 3]
         actual = comics_goodreads_ratings.get_progress_status(2, books)
