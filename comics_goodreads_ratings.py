@@ -3,6 +3,7 @@ import json
 import urllib.parse
 import requests
 import xml.etree.ElementTree as ET
+import typing
 
 GOODREADS_SEARCH_URL = 'https://www.goodreads.com/search.xml'
 
@@ -48,13 +49,23 @@ def display_ratings(books):
     pass
 
 
+def display_progress_status(book, books: typing.List):
+    steps = len(books)
+    current_step = books.index(book) + 1
+
+    return f'Book {current_step}/{steps}'
+
+
 def main():
     books = read_books('./comixology_books.json')
+
     for book in books:
+        print(display_progress_status(book, books))
         xml_book = search_goodreads_book(book)
-        rating = fetch_book_rating(xml_book)
-        keyword = get_goodreads_keyword(book)
-        print(f'{keyword}: {rating}')
+        book['rating'] = fetch_book_rating(xml_book)
+        book['keyword'] = get_goodreads_keyword(book)
+
+    display_ratings(books)
 
 
 if __name__ == "__main__":

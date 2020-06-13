@@ -1,4 +1,5 @@
 from unittest import TestCase
+import io
 import comics_goodreads_ratings
 
 
@@ -34,3 +35,8 @@ class Test(TestCase):
             actual = comics_goodreads_ratings.fetch_book_rating(file.read())
             expected = '4.17'
             self.assertEqual(actual, expected)
+
+    def test_display_progress_status(self):
+        books = [1, 2, 3]
+        actual = comics_goodreads_ratings.display_progress_status(2, books)
+        self.assertEqual(actual, 'Book 2/3')
